@@ -22,5 +22,7 @@ Started with implementing python scripts in Blender. Got a python script to gene
 ![1try](https://github.com/user-attachments/assets/2822e4bf-3d7a-4086-aca2-2d219b2a42de)
 ![try4](https://github.com/user-attachments/assets/5db69613-703f-43a6-9bf0-3404b3ad63d6)
 ![reconstructed_image_from_frames](https://github.com/user-attachments/assets/698dde8d-a7e7-4d14-9ec2-258c3efa8226)
+<img width="939" alt="Screenshot 2025-07-05 at 10 50 01 PM" src="https://github.com/user-attachments/assets/af74e302-bb7a-4eb4-854d-943528d2ceaa" />
+
 
 **Total time spent: 3h**
